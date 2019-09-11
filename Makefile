@@ -1,5 +1,5 @@
 # SoapyUHD
-version = 0.3.4
+version = 0.3.6
 name = SoapyUHD
 full_name = $(name)-$(version)
 download_url = "https://github.com/pothosware/$(name)/archive/soapy-uhd-$(version).tar.gz"

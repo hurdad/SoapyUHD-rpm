@@ -40,7 +40,7 @@ ldconfig
 %files
 %defattr(-,root,root,-)
 %doc README.md
-%{_libdir}/SoapySDR/modules0.6/libuhdSupport.so
+%{_libdir}/SoapySDR/modules0.*/libuhdSupport.so
 %{_libdir}/uhd/modules/libsoapySupport.so
 
 %changelog
